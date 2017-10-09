@@ -7,6 +7,7 @@ Crypto
 
 ## HMAC
 
+Reference: [Examples of creating base64 hashes using HMAC SHA256](https://www.jokecamp.com/blog/examples-of-creating-base64-hashes-using-hmac-sha256-in-different-languages/)
 ### Java
 ```java
 package crypto.hmac;
