@@ -1,0 +1,16 @@
+# git ignore
+
+.DS_Store
+
+target/
+logs/
+
+# Eclipse files
+.classpath
+.project
+
+# IntelliJ files
+.idea/
+*.iml
+
+*.zip
