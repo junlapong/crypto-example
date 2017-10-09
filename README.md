@@ -3,11 +3,17 @@ Crypto
 
 ## RSA
 
+ - [RSA Public Key Cryptography in Java](http://codeartisan.blogspot.com/2009/05/public-key-cryptography-in-java.html)
+ - [Load RSA public key from file](https://stackoverflow.com/questions/11410770/load-rsa-public-key-from-file)
+ - [Read RSA keys from PEM files in Java](https://www.txedo.com/blog/java-read-rsa-keys-pem-file/)
+ - [Generate RSA keys and write to a PEM file in Java](https://www.txedo.com/blog/java-generate-rsa-keys-write-pem-file/)
+
 ## AES
 
 ## HMAC
 
 Reference: [Examples of creating base64 hashes using HMAC SHA256](https://www.jokecamp.com/blog/examples-of-creating-base64-hashes-using-hmac-sha256-in-different-languages/)
+
 ### Java
 ```java
 package crypto.hmac;
