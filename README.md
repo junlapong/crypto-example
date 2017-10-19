@@ -7,7 +7,8 @@ Crypto
  - [Load RSA public key from file](https://stackoverflow.com/questions/11410770/load-rsa-public-key-from-file)
  - [Read RSA keys from PEM files in Java](https://www.txedo.com/blog/java-read-rsa-keys-pem-file/)
  - [Generate RSA keys and write to a PEM file in Java](https://www.txedo.com/blog/java-generate-rsa-keys-write-pem-file/)
-
+ - [AES encryption](https://aesencryption.net/)
+ 
 ## AES
 
 ## HMAC
